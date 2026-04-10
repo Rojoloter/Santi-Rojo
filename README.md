@@ -1,1 +1,0 @@
-Proyectos hechos en la carrera de ingeniería informática de la Universidad de Buenos Aires, en las materias de Algoritmos y programación I, Algoritmos y programación II, e Introducción al desarrollo de software.

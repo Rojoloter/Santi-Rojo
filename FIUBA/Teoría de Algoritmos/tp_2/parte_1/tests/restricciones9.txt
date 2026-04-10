@@ -1,0 +1,10 @@
+Elon,Bill,Satya,Steve,Mark,Tim,Larry,Warren,Sundar,Jeff
+Steve,Bill,Tim,Sundar,Jeff,Mark,Warren,Elon,Satya,Larry
+Mark,Jeff,Steve,Elon,Bill,Larry,Sundar,Tim,Satya,Warren
+Jeff,Bill,Warren,Sundar,Tim,Elon,Satya,Larry,Mark,Steve
+Larry,Tim,Warren,Jeff,Steve,Mark,Elon,Sundar,Bill,Satya
+Bill,Elon,Jeff,Satya,Steve,Sundar,Warren,Larry,Mark,Tim
+Warren,Satya,Tim,Elon,Sundar,Steve,Larry,Mark,Jeff,Bill
+Tim,Elon,Larry,Sundar,Jeff,Bill,Mark,Warren,Steve
+Sundar,Warren,Bill,Jeff,Tim,Elon,Steve,Mark,Satya
+Satya,Mark,Steve,Bill,Larry,Sundar,Jeff,Warren,Tim

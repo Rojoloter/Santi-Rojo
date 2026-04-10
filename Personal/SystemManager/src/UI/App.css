@@ -1,0 +1,37 @@
+.main {
+    display: grid;
+    grid-template-columns: 16rem auto;
+    gap: 1rem;
+    align-items: center;
+    width: calc(100vw - 2rem);
+    max-width: 900px;
+    margin: 4rem 1rem 1rem;
+}
+
+.mainGrid {
+    height: 14rem;
+    padding: 1rem;
+    width: calc(100vw - 4rem);
+}
+
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-color: #2d2d2d;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    box-sizing: border-box;
+}
+
+.chart-label {
+    margin: 0 0 0.5rem 0.25rem;
+    font-weight: 500;
+    font-size: 0.875rem;
+    color: #a0a0a0;
+}
+
+.chart-container svg {
+    flex-grow: 1;
+}
